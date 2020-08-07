@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-tests.git/static/css/main.36497136.chunk.css",
+    "main.js": "/react-tests.git/static/js/main.a09e4ca3.chunk.js",
+    "main.js.map": "/react-tests.git/static/js/main.a09e4ca3.chunk.js.map",
+    "runtime-main.js": "/react-tests.git/static/js/runtime-main.4713a1d4.js",
+    "runtime-main.js.map": "/react-tests.git/static/js/runtime-main.4713a1d4.js.map",
+    "static/js/2.5bd1d3b4.chunk.js": "/react-tests.git/static/js/2.5bd1d3b4.chunk.js",
+    "static/js/2.5bd1d3b4.chunk.js.map": "/react-tests.git/static/js/2.5bd1d3b4.chunk.js.map",
+    "index.html": "/react-tests.git/index.html",
+    "precache-manifest.2c76aaeeea40c71f47d160a158e172eb.js": "/react-tests.git/precache-manifest.2c76aaeeea40c71f47d160a158e172eb.js",
+    "service-worker.js": "/react-tests.git/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/react-tests.git/static/css/main.36497136.chunk.css.map",
+    "static/js/2.5bd1d3b4.chunk.js.LICENSE.txt": "/react-tests.git/static/js/2.5bd1d3b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4713a1d4.js",
+    "static/js/2.5bd1d3b4.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.a09e4ca3.chunk.js"
+  ]
+}
