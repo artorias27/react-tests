@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-tests/static/css/main.36497136.chunk.css",
-    "main.js": "/react-tests/static/js/main.65c8a450.chunk.js",
-    "main.js.map": "/react-tests/static/js/main.65c8a450.chunk.js.map",
+    "main.js": "/react-tests/static/js/main.155e5def.chunk.js",
+    "main.js.map": "/react-tests/static/js/main.155e5def.chunk.js.map",
     "runtime-main.js": "/react-tests/static/js/runtime-main.638f3d78.js",
     "runtime-main.js.map": "/react-tests/static/js/runtime-main.638f3d78.js.map",
     "static/js/2.5bd1d3b4.chunk.js": "/react-tests/static/js/2.5bd1d3b4.chunk.js",
     "static/js/2.5bd1d3b4.chunk.js.map": "/react-tests/static/js/2.5bd1d3b4.chunk.js.map",
     "index.html": "/react-tests/index.html",
-    "precache-manifest.c8943ec12fd53ff56ab8dbe35d02bc44.js": "/react-tests/precache-manifest.c8943ec12fd53ff56ab8dbe35d02bc44.js",
+    "precache-manifest.f4f370d3892246bd86b20634bd7de8de.js": "/react-tests/precache-manifest.f4f370d3892246bd86b20634bd7de8de.js",
     "service-worker.js": "/react-tests/service-worker.js",
     "static/css/main.36497136.chunk.css.map": "/react-tests/static/css/main.36497136.chunk.css.map",
     "static/js/2.5bd1d3b4.chunk.js.LICENSE.txt": "/react-tests/static/js/2.5bd1d3b4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.638f3d78.js",
     "static/js/2.5bd1d3b4.chunk.js",
     "static/css/main.36497136.chunk.css",
-    "static/js/main.65c8a450.chunk.js"
+    "static/js/main.155e5def.chunk.js"
   ]
 }
